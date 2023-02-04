@@ -1,12 +1,10 @@
-🎵 Exemplo de uma vitrola utilizando JavaScript.
+📚 Praticando um pouco de JavaScript com esse site de Cálculo de IMC.
 
-➡️ [Acesse a página clicando aqui](https://gabrielcostarep.github.io/Record-Player/) ⬅️
+➡️ [Acesse a página clicando aqui](https://gabrielcostarep.github.io/Calculadora-IMC) ⬅️
 
  <div align="center" >
   <img src="./Readme-gif.gif" alt="demo-web" height="500em">
 </div>
- 
-🔍 Inspirado pelo código de [Jonathan Fabris](https://github.com/jonfaal)
 
 ## 🚀 Tecnologias
 
